@@ -38,7 +38,6 @@
 1. Añadir citas
 1. Modificar citas
 1. Cancelar citas
-1. Aviso si coinciden dos citas
 
 
 
